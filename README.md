@@ -2,14 +2,21 @@
 
 ### A Japanese-English word deck for developers/engineers.
 
-#### What you need to contribute?
-- Knowledge about Japanese and English tech/dev words or phrases
+### Contribution
+There are two main ways to contribute.
+1. Add or check the vocabulary list.
+ - You will need knowledge with Japanese and English tech/dev words or phrases
+
+2. WebViewer Development
+ - Uses python, django and web development
 
 #### How to contribute?
-- Fork this repository.
-- Create a new branch from `develop` branch
-- Add lines to word_phrases_list.csv
-- Commit the changes and create a PR
+
+1. [Fork](https://github.com/JapanTechAndLanguage/jap-english-tech-worddeck/fork) this repository.
+2. Create a new branch from `main` branch
+3. Add lines to word_phrases_list.csv
+4. Commit the changes and create a PR
+
 
 <hr />
 
